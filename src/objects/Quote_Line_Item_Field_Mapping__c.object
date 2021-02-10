@@ -14,5 +14,5 @@
         <unique>false</unique>
     </fields>
     <label>Quote Line Item Field Mapping</label>
-    <visibility>Protected</visibility>
+    <visibility>Public</visibility>
 </CustomObject>
