@@ -45,7 +45,8 @@ private class QuoteLineItemTriggerHandlerTest {
             opportunityId = oppty.id,
             priceBookEntryId = pbe.id,
             quantity = 5,
-            unitPrice = pbe.unitPrice
+            unitPrice = pbe.unitPrice,
+            Unit_of_Measure__c = 'Each'
         );
 
         insert oli;
